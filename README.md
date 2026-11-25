@@ -11,6 +11,14 @@
 
 ---
 
+<p align="center">
+  <img src="assets/screenshots/visaogeral.png"
+       alt="Interface principal do CASSI - Acervo Inteligente"
+       width="100%">
+</p>
+
+---
+
 ## 📌 Sobre o projeto
 
 O **CASSI – Acervo Inteligente** é uma solução tecnológica desenvolvida para automatizar a organização, o processamento, a indexação e a recuperação de informações presentes em documentos técnicos do setor de engenharia civil.

@@ -738,7 +738,7 @@ As decisões de negócio, autorizações, validações e homologações foram co
 
 **Arquiteta Cloud | DevOps | Quality Assurance**
 
-Profissional com formação em Matemática e Análise e Desenvolvimento de Sistemas, formação técnica em Edificações e experiência anterior superior a 15 anos no setor de engenharia civil.
+Profissional de tecnologia, com dupla graduação em Matemática e Análise e Desenvolvimento de Sistemas.
 
 O projeto representa a integração entre experiência de negócio, engenharia civil, tecnologia da informação, automação e qualidade de software.
 

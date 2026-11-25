@@ -620,24 +620,19 @@ Cada computador possui uma instalação independente. As atualizações document
 
 ---
 
-## 📸 Evidências do projeto
+## 📸 Demonstração da aplicação
 
-As evidências técnicas serão disponibilizadas na pasta:
+### 🖥️ Interface principal
 
-`assets/screenshots/`
+![Interface principal](assets/screenshots/01-interface-principal.png)
 
-As imagens deverão demonstrar:
+### 🔎 Pesquisa inteligente
 
-- Interface principal.
-- Pesquisa inteligente.
-- Atualização de novos acervos.
-- Processamento OCR.
-- Compilação do Tesseract.
-- Geração do instalador.
-- Validação SHA-256.
-- Aplicação instalada em outro computador.
+![Pesquisa inteligente](assets/screenshots/02-pesquisa-inteligente.png)
 
-Todas as evidências públicas deverão utilizar informações anonimizadas ou sintéticas.
+### 🔄 Atualização de acervos
+
+![Atualização de acervos](assets/screenshots/03-atualizacao-acervos.png)
 
 ---
 

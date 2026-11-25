@@ -1,0 +1,143 @@
+# ==================================================
+# Projeto: CASSI - Acervo Inteligente
+# Autora: Andréa Correia
+# Versão: 1.0.0
+# ==================================================
+
+# --------------------------------------------------
+# Python - Arquivos compilados e cache
+# --------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# --------------------------------------------------
+# Ambientes virtuais
+# --------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# --------------------------------------------------
+# Documentos empresariais e dados confidenciais
+# --------------------------------------------------
+[Aa]cervos/
+[Aa]cervo/
+[Aa]acervos/
+data/
+dados/
+*.pdf
+
+# --------------------------------------------------
+# Banco de dados SQLite
+# --------------------------------------------------
+banco/
+database/
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+
+# --------------------------------------------------
+# Segurança - Credenciais e Secrets
+# --------------------------------------------------
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+.streamlit/secrets.toml
+*.pem
+*.key
+*.pfx
+*.p12
+
+# --------------------------------------------------
+# Build, empacotamento e distribuição
+# --------------------------------------------------
+build/
+dist/
+release/
+releases/
+*.exe
+*.dll
+*.msi
+*.zip
+*.7z
+
+# --------------------------------------------------
+# Dependências nativas e compilação
+# --------------------------------------------------
+vcpkg_installed/
+vcpkg-root/
+CMakeFiles/
+CMakeCache.txt
+*.obj
+*.lib
+*.pdb
+
+# --------------------------------------------------
+# Tesseract OCR - Modelos e arquivos temporários
+# --------------------------------------------------
+*.traineddata
+ocr_temp/
+tesseract_temp/
+
+# --------------------------------------------------
+# Logs e monitoramento
+# --------------------------------------------------
+logs/
+*.log
+
+# --------------------------------------------------
+# Backups e recuperação
+# --------------------------------------------------
+backup/
+backups/
+_restore_points/
+*.bak
+*.backup*
+
+# --------------------------------------------------
+# Quality Assurance - Testes e cobertura
+# --------------------------------------------------
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# --------------------------------------------------
+# IDEs e editores
+# --------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --------------------------------------------------
+# Arquivos do sistema operacional
+# --------------------------------------------------
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --------------------------------------------------
+# Arquivos temporários
+# --------------------------------------------------
+*.tmp
+*.temp
+temp/
+tmp/
+
+# ==================================================
+# Fim do arquivo
+# ==================================================

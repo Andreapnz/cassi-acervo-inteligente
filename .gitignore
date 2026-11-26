@@ -138,4 +138,16 @@ Desktop.ini
 temp/
 tmp/
 
+# Backups de scripts e configurações
+*.backup*
+*.bak*
+
+# Arquivos gerados pelo Inno Setup
+installer/Output/
+
+# Testes temporários de compilação
+_controlled_build_tests/
+
+# Pontos de restauração
+_restore_points/
 
